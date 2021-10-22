@@ -1,5 +1,5 @@
 const socialMediaData = {
-  github: 'jakeliny',
+  github: 'dam450',
   youtube: 'user/D3v14nz',
   facebook: '',
   instagram: 'ev4nd7o',
