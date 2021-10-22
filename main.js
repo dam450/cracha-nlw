@@ -1,5 +1,5 @@
 const socialMediaData = {
-  github: 'dam450',
+  github: 'jakeliny',
   youtube: 'user/D3v14nz',
   facebook: '',
   instagram: 'ev4nd7o',
@@ -25,6 +25,7 @@ function getGithubUserData(user) {
       gitBio.textContent = data.bio
       gitLink.href = data.html_url //`http://www.github.com/${data.login}`
       photo.src = data.avatar_url
+      document.title = `${data.name} - DoWhile 2021`
     })
 }
 
