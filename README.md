@@ -1,5 +1,5 @@
-# cracha-nlw
-### Crachá virtual criado durante a trilha origin da NLW Heat.
+# Cracha-NLW
+### Crachá virtual criado durante a trilha origin da NLW Heat para o DoWhile 2021.
 
 ### Você pode ver como ficou a implementação final neste [Link](https://dam450.github.io/cracha-nlw/ "Link")
 
