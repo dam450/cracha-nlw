@@ -43,12 +43,6 @@ main {
   color: var(--white);
 }
 
-/* .ribbon {
-  position: absolute;
-
-  top: -111.5rem;
-  z-index: 1;
-} */
 .avatar {
   width: 10rem;
   margin: 11.5rem auto 0;
@@ -116,7 +110,7 @@ ul {
     background: url(./images/badge_desktop.svg) no-repeat center/cover;
     /* background-color: #202024; */
     background-size: 358px 680px;
-    margin-top: -1rem;
+    margin-top: -0.3rem;
   }
 
   .container {
@@ -131,27 +125,4 @@ ul {
   ul {
     margin: 1.5rem auto 0;
   }
-
-  /*
-  .rope {
-    position: absolute;
-    z-index: 1;
-    top: 0;
-    left: 50vw;
-    margin-left: -40px;
-    width: 80px;
-    height: 24vh;
-    background: linear-gradient(161.24deg, #ff008e -15.25%, #ffcd1e 111.89%);
-  }
-
-  .clasp {
-    background: #121214;
-    position: absolute;
-    top: 23.5vh;
-    left: 50vw;
-    margin-left: -50px;
-    width: 100px;
-    height: 12px;
-  }
-  */
 }
