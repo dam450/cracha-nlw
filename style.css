@@ -15,7 +15,7 @@ body {
 }
 body {
   display: grid;
-  place-items: center;
+  place-items: start center;
   background-image: url('images/background.svg');
 
   background-repeat: no-repeat;
@@ -31,6 +31,8 @@ main {
   width: 100vw;
   min-height: 812px;
   min-width: 375px;
+
+  /* border-radius: 0.3rem; */
 }
 .container {
   max-width: 250px;
@@ -114,7 +116,7 @@ ul {
     background: url(./images/badge_desktop.svg) no-repeat center/cover;
     /* background-color: #202024; */
     background-size: 358px 680px;
-    margin-top: -13rem;
+    margin-top: -1rem;
   }
 
   .container {
