@@ -23,7 +23,7 @@ function getGithubUserData(user) {
       userName.textContent = data.name
       gitUserName.textContent = data.login
       gitBio.textContent = data.bio
-      gitLink.href = data.html_url //`http://www.github.com/${data.login}`
+      gitLink.href = data.html_url
       photo.src = data.avatar_url
       document.title = `${data.name} - DoWhile 2021`
     })
