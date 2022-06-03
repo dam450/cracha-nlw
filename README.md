@@ -24,3 +24,7 @@ O modelo encontra-se no <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/i
 
 ![badge](https://dam450.github.io/cracha-nlw/images/project_badge.png "badge")
 ![badge](https://dam450.github.io/cracha-nlw/images/model.png "modelo")
+
+## Licença
+
+Esse projeto está sob a licença MIT. Consulte o arquivo [LICENSE](./LICENSE.md) para mais detalhes.
