@@ -22,8 +22,8 @@ Foi utilizado no projeto:
 O modelo encontra-se no <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="16px" />
  [Figma](https://www.figma.com/community/file/1031698737363668691/%5BNLW-Heat---Mission%3A-Origin%5D-DoWhile2021 "Projeto do modelo no Figma").
 
-![badge](https://dam450.github.io/cracha-nlw/images/project_badge.png "badge")
-![badge](https://dam450.github.io/cracha-nlw/images/model.png "modelo")
+![badge](./images/project_badge.png "badge")
+![badge](./images/model.png "modelo")
 
 ## Licença
 
